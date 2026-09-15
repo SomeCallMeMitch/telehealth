@@ -2,6 +2,34 @@
 
 This file is the prioritized queue for future research sessions.
 
+## Progress recorded September 15, 2026
+
+### Reseller validation
+
+- Simple Freakin' Care launch date resolved: **September 14, 2026**.
+- Operating entity publicly described as Swaim Holding Group LLC; associated operators/promoters found, but authoritative ownership filing still needed.
+- No scale estimate should be attempted yet because the brand is newly launched.
+- Fit For Duty Rx public profile found: founded 2025, Lou Tornabeni founder/CEO, 1 visible LinkedIn employee, 14 followers, explicit employer/channel strategy.
+- Current Drip and EZE pricing/positioning refreshed; no credible subscriber counts found.
+
+### Rx infrastructure
+
+- BestChoiceRx connected to Rx Valet, LLC / Shield PBM.
+- Rx Valet, LLC dba Shield PBM found in the New York DFS PBM directory.
+- Public program flow supports a prepaid/group-funded “program pays the difference” mechanism.
+- Employer/group distribution is built into the product.
+- Direct sourcing from Rx Valet / Shield PBM is now a concrete diligence path.
+
+### Highest-value next actions
+
+1. Contact Rx Valet / Shield PBM for a direct group/white-label quote and plan document.
+2. Request the exact LegUp group benefit summary, caps, quantity limits, family rules, BIN/PCN/Group data, and mail-order requirements.
+3. Ask LegUp for anonymized proof of reseller performance rather than more partner-count claims.
+4. Interview Fit For Duty Rx or another active reseller about conversion, retention, utilization, support burden, and employer uptake.
+5. Continue the three-layer provider comparison.
+
+---
+
 ## Priority 1 — LegUp reseller performance / market validation
 
 ### Simple Freakin' Care deep profile
