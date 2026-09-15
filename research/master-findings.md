@@ -12,6 +12,8 @@ The opportunity currently appears to have **three layers**:
 
 No provider has been selected. Research is still exploratory.
 
+Industry-level research now shows that the current affiliate-marketing boom is concentrated in GLP-1 and other cash-pay elective care, while broad primary-care memberships and employer benefits are different, less-hyped acquisition problems. See [Telehealth Marketing and Affiliate Landscape](industry-marketing-landscape.md).
+
 ## Strongest current positives
 
 - LegUpRx offers unusually low entry cost relative to many white-label telehealth competitors.
@@ -32,6 +34,8 @@ No provider has been selected. Research is still exploratory.
 - Many existing white-label brands appear small; we have not yet established strong examples of scale in the exact Primary Care + Rx model.
 - Simple Freakin' Care launched September 14, 2026, so it cannot yet be used as evidence of validated demand, traffic, retention, or revenue.
 - Healthcare referral/channel compensation must be structured carefully with qualified counsel.
+- Headline affiliate payouts conceal clinical-approval loss, traffic cost, reversals, churn, and offer instability.
+- The GLP-1 affiliate boom is attracting FDA/FTC scrutiny, platform restrictions, aggressive course marketing, and brand risk from affiliates.
 
 ## Current business hypotheses
 
@@ -121,6 +125,10 @@ Long term, the software/distribution layer could work with multiple telehealth b
 
 Most still need scale validation. Simple Freakin' Care is now confirmed as a launch-stage brand (September 14, 2026). Fit For Duty Rx has a clearer employer/channel strategy but shows only a very small public footprint.
 
+## Industry marketing conclusion
+
+Telehealth is now a genuine performance-marketing vertical, but the phrase hides four distinct models: brand affiliate, creator affiliate, white-label clinic, and employer/member-benefit channel. Current hype is driven primarily by GLP-1/elective-care offers. The durable asset is likely a compliant distribution system—trusted audience, education, prequalification, approval-adjusted analytics, and portable partner relationships—rather than dependence on one provider or one advertised payout.
+
 ## Next research priorities
 
 1. Obtain operating proof from resellers: active members, employer deployments, conversion, retention, utilization, and CAC.
@@ -129,6 +137,8 @@ Most still need scale validation. Simple Freakin' Care is now confirmed as a lau
 4. Model migration economics at 100 / 250 / 500 / 1,000+ members.
 5. Investigate channel-partner compensation precedents more deeply.
 6. Clarify LegUp contract and Rx questions directly with the company.
+7. Collect real affiliate funnel data: CPC, intake completion, clinical approval, paid conversion, reversal, retention, EPC, and net contribution.
+8. Audit TeleHealth Profits and similar training funnels only if full pricing, refund terms, offer access, compliance curriculum, and typical student outcomes can be obtained.
 
 ## Decision state
 
