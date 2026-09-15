@@ -20,6 +20,15 @@ This file is the prioritized queue for future research sessions.
 - Employer/group distribution is built into the product.
 - Direct sourcing from Rx Valet / Shield PBM is now a concrete diligence path.
 
+### Industry marketing landscape
+
+- Confirmed that telehealth is being treated as a distinct performance-marketing vertical.
+- The hottest affiliate/creator activity is concentrated in GLP-1 and cash-pay elective care, not general primary care.
+- Documented public affiliate programs across general telehealth, dermatology, allergy, sexual health, behavioral health, longevity, and GLP-1.
+- Identified affiliate conferences, networks, tracking vendors, white-label vendors, creator communities, and course funnels as the main conversation venues.
+- Documented core constraints: LegitScript/Google certification, clinical-approval attrition, expensive paid traffic, reversals/churn, FDA claims enforcement, FTC disclosure/oversight, and sensitive-data tracking risk.
+- Added full report: [Telehealth Marketing and Affiliate Landscape](industry-marketing-landscape.md).
+
 ### Highest-value next actions
 
 1. Contact Rx Valet / Shield PBM for a direct group/white-label quote and plan document.
@@ -236,3 +245,41 @@ This research is for business diligence, not legal advice.
 ## Current phase
 
 **Exploration only. No decision has been made to launch or sign with any provider.**
+
+
+---
+
+## Priority 7 — Affiliate and performance-marketing validation
+
+Collect offer-level evidence for at least five representative programs:
+
+- traffic source and CPC/CPM;
+- click-to-intake rate;
+- intake completion;
+- clinical approval rate;
+- approval-to-paid conversion;
+- commission trigger;
+- reversal/refund rate;
+- 30/90/180-day retention;
+- effective EPC;
+- net contribution after traffic and creative costs;
+- attribution window and cross-device tracking;
+- creative approval and compliance process;
+- affiliate-account termination history;
+- portability of audience and first-party data.
+
+Interview affiliates or creators who can show campaign-level evidence, including unsuccessful campaigns. Avoid relying on screenshots of gross commissions without spend, reversals, or approval data.
+
+### TeleHealth Profits diligence
+
+Before treating the course as evidence or purchasing it, obtain:
+
+- full price and upsell ladder;
+- refund policy and complaint handling;
+- named affiliate networks and offers;
+- whether “exclusive” offers are actually exclusive;
+- traffic-budget expectations;
+- compliance and health-claims curriculum;
+- student outcome distribution, not selected testimonials;
+- campaign evidence showing spend, clinical approval, reversals, and net profit;
+- terms governing use of student data and promotional testimonials.
