@@ -19,6 +19,7 @@ No provider has been selected. Research is still exploratory.
 - The Family + Rx plan at an $85/month wholesale floor may support attractive recurring margin if retail pricing around $149-$159 proves viable.
 - The Rx formulary may be the best customer-acquisition hook because it converts existing prescription spend into a savings argument.
 - A reseller ecosystem definitely exists, so the business model is operational rather than purely theoretical.
+- BestChoiceRx appears to sit within the Rx Valet / Shield PBM operating family, creating a plausible direct-sourcing lead outside LegUp.
 - Existing competitors demonstrate that recurring channel-partner economics are possible in this industry.
 - Beluga and other infrastructure providers create a plausible path to owning more of the stack later.
 
@@ -29,6 +30,7 @@ No provider has been selected. Research is still exploratory.
 - The $0 prescription benefit is attractive but needs deeper verification around caps, quantity limits, mail order, family utilization, and BestChoiceRx structure.
 - Consumer CAC for low-cost telehealth membership is unknown.
 - Many existing white-label brands appear small; we have not yet established strong examples of scale in the exact Primary Care + Rx model.
+- Simple Freakin' Care launched September 14, 2026, so it cannot yet be used as evidence of validated demand, traffic, retention, or revenue.
 - Healthcare referral/channel compensation must be structured carefully with qualified counsel.
 
 ## Current business hypotheses
@@ -117,12 +119,12 @@ Long term, the software/distribution layer could work with multiple telehealth b
 - MHP Total Wellness
 - multiple managed brands on `telehealthwebsite.com`
 
-Most still need scale validation.
+Most still need scale validation. Simple Freakin' Care is now confirmed as a launch-stage brand (September 14, 2026). Fit For Duty Rx has a clearer employer/channel strategy but shows only a very small public footprint.
 
 ## Next research priorities
 
-1. Deep profile Simple Freakin' Care and several comparable resellers.
-2. Reverse-engineer BestChoiceRx and the $0 formulary economics.
+1. Obtain operating proof from resellers: active members, employer deployments, conversion, retention, utilization, and CAC.
+2. Contact Rx Valet / Shield PBM directly for group pricing, caps, formulary rights, network routing, and white-label/API options.
 3. Build a structured provider comparison across B2C, B2B channel, and infrastructure layers.
 4. Model migration economics at 100 / 250 / 500 / 1,000+ members.
 5. Investigate channel-partner compensation precedents more deeply.
