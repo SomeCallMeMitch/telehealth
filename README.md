@@ -48,3 +48,17 @@ The current leading low-cost test platform is **LegUpRx**, primarily because of 
 ## Working principle
 
 Keep the **brand, domain, CRM, lead-gen app, email/SMS list, analytics, and acquisition data** independent of any telehealth vendor wherever legally and technically possible. The long-term asset should be the distribution/customer-acquisition system, not a single vendor relationship.
+
+
+## Current strategy decision — September 15, 2026
+
+The first recommended live MVP is a **provider-neutral Prescription Cost & Telehealth Savings Check** using aggregate spending and transparent hypothetical scenarios. A drug-level **$0 Prescription Finder** remains the strongest upgrade, but it must wait for written formulary reuse rights, structured data, exact benefit rules, and approved claim language.
+
+Initial validation should be partner-first: co-branded pages for a small number of businesses with existing audiences, plus a capped direct-consumer control. Broad paid acquisition should not scale until customer ownership and source-level unit economics are proven.
+
+New work products:
+
+- [LegUp Go-to-Market Strategy](research/legup-go-to-market-strategy.md)
+- [Prescription Savings MVP Product Brief](product/rx-savings-mvp-brief.md)
+- [Validation Economics and 30-Day Plan](research/validation-economics-and-30-day-plan.md)
+- [LegUp Launch Requirements](research/legup-launch-requirements.md)
