@@ -283,3 +283,48 @@ Before treating the course as evidence or purchasing it, obtain:
 - student outcome distribution, not selected testimonials;
 - campaign evidence showing spend, clinical approval, reversals, and net profit;
 - terms governing use of student data and promotional testimonials.
+
+
+---
+
+## Strategy and MVP decision — September 15, 2026
+
+Completed:
+
+- ranked LegUp go-to-market routes;
+- compared seven lead-magnet candidates;
+- selected the provider-neutral **Prescription Cost & Telehealth Savings Check** as the first live MVP;
+- reserved the drug-level **$0 Prescription Finder** for a second stage after written formulary rights and exact rules;
+- created the Base44-ready product brief;
+- modeled conservative, base, and optimistic funnel/unit economics;
+- designed a 30-day partner-first validation test;
+- separated prototype work from production launch gates.
+
+New durable files:
+
+- [LegUp Go-to-Market Strategy and Lead-Magnet Decision](legup-go-to-market-strategy.md)
+- [MVP Product Brief](../product/rx-savings-mvp-brief.md)
+- [Validation Economics and 30-Day Test Plan](validation-economics-and-30-day-plan.md)
+- [LegUp Requirements Before Prototype, Launch, and Scale](legup-launch-requirements.md)
+
+### Revised priority order
+
+1. Build the aggregate-spend clickable prototype and public validation MVP with no drug-level claims.
+2. Recruit 3–5 pilot partners in no more than two verticals; secure actual distribution commitments.
+3. Run five consumer usability sessions and five partner interviews before traffic spend.
+4. Obtain written LegUp/underlying administrator formulary rights, data schema, plan limits, and approved claim language.
+5. Negotiate customer/lead ownership, CRM/export, transition, attribution, and post-termination commission protection.
+6. Request a master-channel agreement with recurring economics; do not build a reseller channel around the one-time $500 bounty.
+7. Run the 30-day validation test and measure source-level starts, completions, leads, plan-detail intent, and partner distribution.
+8. Add live medication lookup only after production launch gates are met.
+9. Continue direct Rx Valet / Shield PBM diligence as a portability and sourcing path.
+10. Model provider migration at 100 / 250 / 500 / 1,000 / 5,000 active members after real funnel and retention data exists.
+
+### Immediate stop conditions
+
+- no written right to display/update real formulary data;
+- inability to keep brand, CRM, attribution, and non-PHI prospect/customer data portable;
+- real-price intent collapses after limitations are explained;
+- pilot partners express interest but will not distribute;
+- projected CAC remains above credible lifetime contribution;
+- plan rules materially weaken the savings proposition.
